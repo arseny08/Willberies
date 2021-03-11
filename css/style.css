@@ -53,10 +53,10 @@ body{
 .slide {
     padding-top: 90px;
     padding-bottom: 110px;
-    min-width: 560px;
+    min-width: 300px;
 }
 .slide-1 {
-    background: #b4d1e0 url("../img/slide-image-1.png") no-repeat top right 30%;
+    background: #b4d1e0 url("../img/slide-image-1.png") no-repeat top right 20%;
 }
 .label {
     background-color: #3DC47E;
